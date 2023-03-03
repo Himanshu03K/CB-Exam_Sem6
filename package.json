@@ -1,0 +1,11 @@
+{
+  "name": "cb-exam_sem6",
+  "version": "1.0.0",
+  "description": "CB Exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himanshu Kushwaha",
+  "license": "ISC"
+}
